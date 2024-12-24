@@ -31,8 +31,9 @@ For full license details, please refer to the `LICENSE` file in this repository.
 </ul>
 <h3>Step 2: Making the actual vehicle. </h3>
 <ul>
-  <li>Take the PVC board and attach the 2 motors and the caster wheel as shown in the image.<img src="![462579151_1301944581030402_3839731334721816097_n](https://github.com/user-attachments/assets/2c489624-39dc-44d4-8824-72ef4b9b6578)">
- </li>
+  <li>Take the PVC board and attach the 2 motors and the caster wheel as shown in the image.</li>
+  ![462579151_1301944581030402_3839731334721816097_n](https://github.com/user-attachments/assets/20b4a40b-d069-4344-b599-9278f45e8832)
+
 </ul>
 
 
