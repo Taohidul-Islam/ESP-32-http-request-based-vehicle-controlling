@@ -1,6 +1,10 @@
 # ESP-32-http-request-based-vehicle-controlling
 A 3 wheeler(2 wheels powered) mini car would be controlled via http requests sent to esp32 from any device at same Wi-Fi network. Sending http requests manually is possible but won't be practical so I made a python code to send http requests from your desktop or laptop using your keyboard and gaming keys "W", "S", "A", "D".
+## License
 
+This project is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](LICENSE).
+
+For full license details, please refer to the `LICENSE` file in this repository.
 
 <h3>Components you need:</h3>
 <ul>
@@ -26,6 +30,11 @@ A 3 wheeler(2 wheels powered) mini car would be controlled via http requests sen
   <P>Now your ESP-32 programming is done. Let's now do the wiring of our hardware.</P>
 </ul>
 <h3>Step 2: Making the actual vehicle. </h3>
+<ul>
+  <li>Take the PVC board and attach the 2 motors and the caster wheel as shown in the image.<img src="![462579151_1301944581030402_3839731334721816097_n](https://github.com/user-attachments/assets/2c489624-39dc-44d4-8824-72ef4b9b6578)">
+ </li>
+</ul>
+
 
 
 
