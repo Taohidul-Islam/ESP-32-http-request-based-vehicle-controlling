@@ -38,7 +38,7 @@ For full license details, please refer to the `LICENSE` file in this repository.
 <img src="https://github.com/user-attachments/assets/ef098f74-9ace-44c7-ac0c-34a3c448bc10" width="250" height="250" >
 <li>Now while facing the caster wheel upwards, assume the right motor as "Motor A" and the left motor as "Motor B". Look at the picture shown below for reference.</li>
 <img src="https://github.com/user-attachments/assets/df9bfd2a-7096-4fce-b876-e17284e66fc0" width="250" height="250">
-<li>Now connect your components in your breadboard as shown below.</li>\
+<li>Now connect your components in your breadboard as shown below.</li>
 <img src="https://github.com/user-attachments/assets/331e5cc3-9280-4a81-b70b-ce556004bf1e" width="250" height="250">
 <li>Now put everything on your car safely and glue them if needed.</li>
 <li>I used two 18650 3.7v(4v when fully charged) Li-ion battery in series for power supply. You can use any battery you want. Remember, exceeding 6 Volts may damage your motor overtime.(I used 8 Volts as it was vesetile for me.)</li>
