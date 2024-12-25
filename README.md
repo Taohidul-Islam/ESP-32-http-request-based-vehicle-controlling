@@ -13,7 +13,7 @@ For full license details, please refer to the `LICENSE` file in this repository.
 <li>5-8 volt portable high current power source(2 pieces of 18650 Li-ion battery in series is recomended) to power the motors properly.</li>
 <li>Step down buck converter like LM2596 to reduce the battery voltage so it can power your ESP-32 board on 3.3 volts.</li>
 <li>Mini voltmeter to monitor output voltage of LM2596 buck converter. (If the buck converter doesn't come with inbuilt voltmeter for monitoring.)</li>
-<li>Any H-Gate motor driver for 2 motors. I used HW-310 MINI L293D Motor Motor Drive Module Motor Driver.</li>
+<li>Any H-Gate motor driver for 2 motors. I used HW-310 MINI L293D Motor Drive Module Motor Driver.</li>
 <li>4 diodes to protect your ESP-32 pins from unintentional current given by motor driver.</li>
 <li>PVC board. I used 8 by 4 inches.</li>
 <li>2 gear motors. (The yellow plastic gear motors in the market.)</li>
