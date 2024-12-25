@@ -24,7 +24,7 @@ For full license details, please refer to the `LICENSE` file in this repository.
 <h3>Step 1: Programming your ESP-32</h3>
 <ul>
   <li>Put your ESP32 on a boeardborad and make sure that the right side pins(while the usb port is towards your face) are accessible from breadboard.</li>
-  <li>Copy the C++ code from the file named ESP-32main. Change the SSID and Password value to your home wifi name and home wi-fi password. If no wifi available at home, create one using a mobile phone by turning on wi-fi hotspot.</li>
+  <li>Copy the C++ code from the file named ESP-32main.ino. Change the SSID and Password value to your home wifi name and home wi-fi password. If no wifi available at home, create one using a mobile phone by turning on wi-fi hotspot.</li>
 <li>Now upload your code to your ESP-32 via arduino IDE or any other IDE you like.</li>
 <li>Open serial monitor at 112500 baud after uploading the Code. The monitor should give you a IP adress. Note that down as we would need it later.</li>
   <P>Now your ESP-32 programming is done. Let's now do the wiring of our hardware.</P>
