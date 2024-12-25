@@ -33,10 +33,20 @@ For full license details, please refer to the `LICENSE` file in this repository.
 <ul>
   <li>Take the PVC board and attach the 2 motors, 2 wheels and the caster wheel as shown in the image.
 </li>
-<li><img src="https://github.com/user-attachments/assets/3b897c62-fae7-4ccb-8dd1-72d3f23331e3" width="250" height="350" border-radius="10px" ></li>
-
+<img src="https://github.com/user-attachments/assets/fe2d057f-20e2-44d7-beba-df0c2e34a35a" width="250" height="250">
+<li>While facing the motor terminal upwards, assume left terminal as positive and right terminal as negative. Look at the picture at bottom for reference.</li>
+<img src="https://github.com/user-attachments/assets/ef098f74-9ace-44c7-ac0c-34a3c448bc10" width="250" height="250" >
+<li>Now while facing the caster wheel upwards, assume the right motor as "Motor A" and the left motor as "Motor B". Look at the picture shown below for reference.</li>
+<img src="https://github.com/user-attachments/assets/df9bfd2a-7096-4fce-b876-e17284e66fc0" width="250" height="250">
+<li>Now connect your components in your breadboard as shown below.</li>\
+<img src="https://github.com/user-attachments/assets/331e5cc3-9280-4a81-b70b-ce556004bf1e" width="250" height="250">
+<li>Now put everything on your car safely and glue them if needed.</li>
+<li>I used two 18650 3.7v(4v when fully charged) Li-ion battery in series for power supply. You can use any battery you want. Remember, exceeding 6 Volts may damage your motor overtime.(I used 8 Volts as it was vesetile for me.)</li>
+<li>Make sure to step down the voltage to 3.33V in LM2596 converter output before powering your ESP-32 board. Exceeding this voltage while connected to your ESP-32 board may cook your board.(I cooked my board once.)</li>
 
 </ul>
+
+
 
 
 
