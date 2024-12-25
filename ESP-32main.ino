@@ -2,8 +2,8 @@
 #include <ESPAsyncWebServer.h>
 
 // Replace with your Wi-Fi credentials
-const char* ssid = "Marufa";
-const char* password = "01684564744";
+const char* ssid = "SSID";
+const char* password = "PASSWORD";
 
 // Create an instance of the server
 AsyncWebServer server(80);
