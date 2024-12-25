@@ -45,6 +45,14 @@ For full license details, please refer to the `LICENSE` file in this repository.
 <li>Make sure to step down the voltage to 3.33V in LM2596 converter output before powering your ESP-32 board. Exceeding this voltage while connected to your ESP-32 board may cook your board.(I cooked my board once.)</li>
 
 </ul>
+<h3>Step 3: Setup controller program.</h3>
+<ul>
+  <li>Install and setup your preferable IDE for python programing. I use Visual Studio Code with Code Runner extension.</li>
+  <li>Download controller.py file from this repo and open it in your IDE. </li>
+  <li>Now replace the value of ESP_IP variable with your own ESP_IP which you noted down before from 115200 baud serial monitor while programing your ESP-32</li>
+  <li>Now power up everything according to circuit design mentioned before.</li>
+  <li>Now run the python code and you are good to go. Enjoy your keyboard controlled vehicle.</li>
+</ul>
 
 
 
